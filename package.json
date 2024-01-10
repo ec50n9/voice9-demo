@@ -9,9 +9,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.3.11"
+    "crypto-js": "^4.2.0",
+    "vue": "^3.3.11",
+    "vue-query": "^1.26.0"
   },
   "devDependencies": {
+    "@types/crypto-js": "^4.2.1",
     "@vitejs/plugin-vue": "^4.5.2",
     "typescript": "^5.2.2",
     "vite": "^5.0.8",
